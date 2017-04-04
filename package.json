@@ -2,7 +2,7 @@
     "name": "scicomp-extension-pack",
     "displayName": "Scientific Computing Extension Pack",
     "description": "Extension pack for scientific computation in Visual Studio Code",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "cgranade",
     "engines": {
         "vscode": "^1.10.0"
@@ -10,13 +10,13 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [ 
-        "donjayamanne.git-extension-pack", 
-        "donjayamanne.jupyter", 
-        "donjayamanne.python", 
+    "extensionDependencies": [
+        "donjayamanne.git-extension-pack",
+        "donjayamanne.jupyter",
+        "donjayamanne.python",
         "DougFinke.vscode-pandoc",
         "James-Yu.latex-workshop",
-        "MattiasPernhult.vscode-todo", 
-        "ms-vscode.latex"        
+        "MattiasPernhult.vscode-todo",
+        "ms-vscode.latex"
     ]
 }
