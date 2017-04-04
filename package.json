@@ -14,8 +14,8 @@
         "donjayamanne.git-extension-pack", 
         "donjayamanne.jupyter", 
         "donjayamanne.python", 
-        "DougFinke.vscode-pandoc", 
-        "mathiasfrohlich.latexcompile", 
+        "DougFinke.vscode-pandoc",
+        "James-Yu.latex-workshop",
         "MattiasPernhult.vscode-todo", 
         "ms-vscode.latex"        
     ]
