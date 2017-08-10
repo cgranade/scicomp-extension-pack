@@ -16,7 +16,6 @@
         "donjayamanne.python",
         "DougFinke.vscode-pandoc",
         "James-Yu.latex-workshop",
-        "MattiasPernhult.vscode-todo",
-        "ms-vscode.latex"
+        "MattiasPernhult.vscode-todo"
     ]
 }
