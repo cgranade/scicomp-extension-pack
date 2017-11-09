@@ -13,7 +13,7 @@
     "extensionDependencies": [
         "donjayamanne.git-extension-pack",
         "donjayamanne.jupyter",
-        "donjayamanne.python",
+        "ms-python.python",
         "DougFinke.vscode-pandoc",
         "James-Yu.latex-workshop",
         "MattiasPernhult.vscode-todo"
