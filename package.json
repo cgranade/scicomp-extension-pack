@@ -12,7 +12,6 @@
     ],
     "extensionDependencies": [
         "donjayamanne.git-extension-pack",
-        "donjayamanne.jupyter",
         "donjayamanne.python",
         "DougFinke.vscode-pandoc",
         "James-Yu.latex-workshop",
