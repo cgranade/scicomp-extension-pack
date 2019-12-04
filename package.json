@@ -2,7 +2,7 @@
     "name": "scicomp-extension-pack",
     "displayName": "Scientific Computing Extension Pack",
     "description": "Extension pack for scientific computation in Visual Studio Code",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "cgranade",
     "repository": "https://github.com/cgranade/scicomp-extension-pack",
     "engines": {
